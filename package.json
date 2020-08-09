@@ -1,0 +1,24 @@
+{
+  "name": "js-functional-tour",
+  "version": "1.0.0",
+  "description": "Tour of functional programming idioms in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbenjones/js-functional-tour.git"
+  },
+  "keywords": [
+    "js",
+    "functional",
+    "test"
+  ],
+  "author": "Benjamin G Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbenjones/js-functional-tour/issues"
+  },
+  "homepage": "https://github.com/mrbenjones/js-functional-tour#readme"
+}
